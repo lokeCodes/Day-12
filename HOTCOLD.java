@@ -1,5 +1,8 @@
 /* package codechef; // don't place package name! */
 
+// https://www.codechef.com/problems/HOTCOLD
+// question link ^^^
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
