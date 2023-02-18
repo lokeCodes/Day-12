@@ -1,5 +1,8 @@
 /* package codechef; // don't place package name! */
 
+// https://www.codechef.com/problems/FOOTCUP
+//Question link ^^
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
