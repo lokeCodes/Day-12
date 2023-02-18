@@ -1,5 +1,5 @@
-// We have populated the solutions for the 10 easiest problems for your support.
-// Click on the SUBMIT button to make a submission to this problem.
+//https://www.codechef.com/problems/FLOW002
+// Question Link ^^^
 
 import java.util.*;
 class Remainder
